@@ -1,5 +1,5 @@
 
-#From Manufacturing Cost to Net Sales or Gross Margin
+
 
 ### 1. Manufacturing Cost
 

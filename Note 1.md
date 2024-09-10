@@ -98,4 +98,38 @@ These costs are vital as they impact the overall cost structure and profitabilit
 - **Gross Margin:** An essential metric for evaluating overall business health and operational efficiency, influencing decisions on cost control and strategic planning.
 
 
+|                                                             |                            Manufacturing Cost              |
+|-------------------------------------------------------------|------------------------------------------------------------|
+|                                                             |                            Cost of Goods Sold (COGS)       |
+|-------------------------------------------------------------|------------------------------------------------------------|
+|                                                             |                            Gross Sales                     |
+|-------------------------------------------------------------|------------------------------------------------------------|
+|                                                             |                            Gross Sales                             |
+|-------------------------------------------------------------|------------------------------------------------------------|
+
+
+
+
+
+
+
++-------------------------------------------------------------+-------------------------------------------------------------+
+|                           Item                              |                          Description                        |
++-------------------------------------------------------------+-------------------------------------------------------------+
+|                     Manufacturing Cost                      | Direct costs involved in production, including raw materials,|
+|                                                             | labor, and overhead.                                         |
++-------------------------------------------------------------+-------------------------------------------------------------+
+|                   Cost of Goods Sold (COGS)                 | Total production costs, including manufacturing cost, freight,|
+|                                                             | and other expenses directly tied to goods sold.              |
++-------------------------------------------------------------+-------------------------------------------------------------+
+|                        Gross Sales                          | Total revenue from sales before any deductions such as       |
+|                                                             | discounts, returns, and allowances.                          |
++-------------------------------------------------------------+-------------------------------------------------------------+
+|                         Net Sales                           | Gross sales minus deductions like discounts, returns, and    |
+|                                                             | other allowances. Reflects actual revenue.                   |
++-------------------------------------------------------------+-------------------------------------------------------------+
+|                       Gross Margin                          | Difference between net sales and COGS, indicating profitability|
+|                                                             | before accounting for overhead and other expenses.           |
++-------------------------------------------------------------+-------------------------------------------------------------+
+
 

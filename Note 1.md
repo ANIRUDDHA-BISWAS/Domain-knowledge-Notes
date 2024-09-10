@@ -98,6 +98,13 @@ These costs are vital as they impact the overall cost structure and profitabilit
 - **Gross Margin:** An essential metric for evaluating overall business health and operational efficiency, influencing decisions on cost control and strategic planning.
 
 
+### Gross sales
+The total amount of money a company makes from sales over a period of time, before any deductions like discounts, returns, or allowances. Gross sales are calculated by multiplying the number of units sold by the price per unit. Gross sales are a measure of a company's performance, but they don't accurately reflect profitability.
+
+
+
+
+
 ```mermaid
 graph LR;
     A[Gross Price]-->|-Pre Invoice Deductions| B[Net Invoice Sales];
